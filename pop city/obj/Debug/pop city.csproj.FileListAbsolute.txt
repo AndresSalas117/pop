@@ -1,0 +1,67 @@
+D:\pop\pop city\bin\pop city.dll.config
+D:\pop\pop city\bin\pop city.dll
+D:\pop\pop city\bin\pop city.pdb
+D:\pop\pop city\bin\roslyn\csc.exe
+D:\pop\pop city\bin\roslyn\csc.exe.config
+D:\pop\pop city\bin\roslyn\csc.rsp
+D:\pop\pop city\bin\roslyn\csi.exe
+D:\pop\pop city\bin\roslyn\csi.exe.config
+D:\pop\pop city\bin\roslyn\csi.rsp
+D:\pop\pop city\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\pop\pop city\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\pop\pop city\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\pop\pop city\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\pop\pop city\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\pop\pop city\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\pop\pop city\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\pop\pop city\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\pop\pop city\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\pop\pop city\bin\roslyn\Microsoft.Managed.Core.targets
+D:\pop\pop city\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\pop\pop city\bin\roslyn\System.Collections.Immutable.dll
+D:\pop\pop city\bin\roslyn\System.Reflection.Metadata.dll
+D:\pop\pop city\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\pop\pop city\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\pop\pop city\bin\roslyn\vbc.exe
+D:\pop\pop city\bin\roslyn\vbc.exe.config
+D:\pop\pop city\bin\roslyn\vbc.rsp
+D:\pop\pop city\bin\roslyn\VBCSCompiler.exe
+D:\pop\pop city\bin\roslyn\VBCSCompiler.exe.config
+D:\pop\pop city\bin\Antlr3.Runtime.dll
+D:\pop\pop city\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\pop\pop city\bin\Microsoft.Web.Infrastructure.dll
+D:\pop\pop city\bin\Newtonsoft.Json.dll
+D:\pop\pop city\bin\System.Web.Helpers.dll
+D:\pop\pop city\bin\System.Web.Mvc.dll
+D:\pop\pop city\bin\System.Web.Optimization.dll
+D:\pop\pop city\bin\System.Web.Razor.dll
+D:\pop\pop city\bin\System.Web.WebPages.Deployment.dll
+D:\pop\pop city\bin\System.Web.WebPages.dll
+D:\pop\pop city\bin\System.Web.WebPages.Razor.dll
+D:\pop\pop city\bin\WebGrease.dll
+D:\pop\pop city\bin\System.Web.Helpers.xml
+D:\pop\pop city\bin\System.Web.Mvc.xml
+D:\pop\pop city\bin\System.Web.Optimization.xml
+D:\pop\pop city\bin\System.Web.Razor.xml
+D:\pop\pop city\bin\System.Web.WebPages.xml
+D:\pop\pop city\bin\System.Web.WebPages.Deployment.xml
+D:\pop\pop city\bin\System.Web.WebPages.Razor.xml
+D:\pop\pop city\bin\Newtonsoft.Json.xml
+D:\pop\pop city\bin\Antlr3.Runtime.pdb
+D:\pop\pop city\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\pop\pop city\bin\es\System.Web.Helpers.resources.dll
+D:\pop\pop city\bin\es\System.Web.Mvc.resources.dll
+D:\pop\pop city\bin\es\System.Web.Optimization.resources.dll
+D:\pop\pop city\bin\es\System.Web.Razor.resources.dll
+D:\pop\pop city\bin\es\System.Web.WebPages.resources.dll
+D:\pop\pop city\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\pop\pop city\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\pop\pop city\obj\Debug\pop city.csprojAssemblyReference.cache
+D:\pop\pop city\obj\Debug\pop city.csproj.CoreCompileInputs.cache
+D:\pop\pop city\obj\Debug\pop city.csproj.CopyComplete
+D:\pop\pop city\obj\Debug\pop city.dll
+D:\pop\pop city\obj\Debug\pop city.pdb
+D:\pop\pop city\bin\roslyn\System.Buffers.dll
+D:\pop\pop city\bin\roslyn\System.Memory.dll
+D:\pop\pop city\bin\roslyn\System.Numerics.Vectors.dll
+D:\pop\pop city\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
